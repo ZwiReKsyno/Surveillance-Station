@@ -38,3 +38,4 @@ bash <(curl -L https://raw.githubusercontent.com/ZwiReKsyno/Surveillance-Station
 ```
 bash <(curl -L https://raw.githubusercontent.com/ZwiReKsyno/Surveillance-Station/main/lib/license/remove_license)
 ```
+[Surveillance-Station](https://archive.synology.com/download/Package/SurveillanceStation)
