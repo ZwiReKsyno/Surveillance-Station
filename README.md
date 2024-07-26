@@ -15,7 +15,7 @@
 - Link download: https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-x86_64-9.2.0-11289.spk
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/9.2.0_11289/SurveillanceStation-x86_64/install_license)
+bash <(curl -L https://raw.githubusercontent.com/ZwiReKsyno/Surveillance-Station/tree/main/9.2.0_11289/SurveillanceStation-x86_64/install_license)
 ```
 
 ---  
