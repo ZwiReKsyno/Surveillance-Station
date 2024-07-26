@@ -1,6 +1,6 @@
 ## Surveillance Station
 
-## [Surveillance Station 9.1.2-10854](https://archive.synology.com/download/Package/SurveillanceStation)
+## [Surveillance Station 9.1.2-10854 - 9.2.0-11289 ](https://archive.synology.com/download/Package/SurveillanceStation)
 ---
 ### Диспетчер задач
 - Панель управления -> Планировщик задач.
